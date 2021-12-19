@@ -1,0 +1,10 @@
+goals:
+  achieve reliable layer color changes in resins vats for 3d prints.
+  do so for a material cost below 200$
+  minimize resin hazard to the users!
+  minimize and eliminate resin rint failures being induced by the system
+optional:
+  glitter effect additions?
+  autofill leveling mechanisms even if using only 1 color?
+  reducing changeover waste?
+  
